@@ -5,3 +5,11 @@ saved_models/weights.best.from_scratch.hdf5
 saved_models/weights.best.vgg16.hdf5
 .ipynb_checkpoints/
 bottleneck_features/DogVGG16Data.npz
+
+*.npz
+
+__pycache__/extract_bottleneck_features.cpython-35.pyc
+
+__pycache__/extract_bottleneck_features.cpython-36.pyc
+
+saved_models/weights.best.resnet50.hdf5
